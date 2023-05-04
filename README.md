@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpinn97&count_private=true)
+![Jamie's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jpinn97&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpinn97&layout=compact&langs_count=8&theme=material-palenight
 
 <!--
 **jpinn97/jpinn97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
